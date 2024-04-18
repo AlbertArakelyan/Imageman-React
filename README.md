@@ -13,10 +13,10 @@ When we click “+” icon a modal should open with fields, where we can fill in
 When we click “X” button at the top, the item should be removed.
 
 ### Demands
-1) The code should be written with React
-2) Use Redux Toolkit for state management
-3) Use Tailwind CSS for markup
-4) Using Typescript will be considered as an advantage
+1) The code should be written with **React**
+2) Use **Redux** Toolkit for state management
+3) Use **Tailwind CSS** for markup
+4) Using **Typescript** will be considered as an advantage
 
 ### What we expect
 1) **Well-Structured Code**: Ensure that the code follows best practices, is modular, and easy to understand. Maintain a clear folder structure and use meaningful variable and function names.
